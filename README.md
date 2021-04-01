@@ -22,6 +22,7 @@ https://github.com/linoxxx/-Frontend-Mentor---Testimonials-grid-section
 
 ## Author
 - Frontend Mentor - @linoxxx
+- https://github.com/linoxxx
 - lino3127213@gmail.com
 
 
